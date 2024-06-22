@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file>icons/delete.svg</file>
+    <file>functions.lua</file>
+  </qresource>
+</RCC>
