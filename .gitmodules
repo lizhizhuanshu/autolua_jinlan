@@ -1,6 +1,0 @@
-[submodule "sol2"]
-	path = 3rd/sol2
-	url = https://github.com/ThePhD/sol2.git
-[submodule "lua"]
-	path = 3rd/lua
-	url = https://github.com/lua/lua.git
